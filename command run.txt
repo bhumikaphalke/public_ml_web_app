@@ -1,0 +1,1 @@
+streamlit run  "C:\Users\Nitin\multiple dis pred\multiple_disease_pred2.py"
